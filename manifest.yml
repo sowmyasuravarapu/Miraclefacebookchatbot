@@ -1,0 +1,8 @@
+applications:
+- path: .
+memory: 128M
+instances: 1
+domain: eu-gb.mybluemix.net
+name: facebookchatbot1234
+host: facebookchatbot1234
+disk_quota: 128M

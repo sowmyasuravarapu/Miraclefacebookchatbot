@@ -1,0 +1,29 @@
+{
+  "name": "miracledialogflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "express-session": "^1.16.2",
+    "facebook-node-sdk": "^0.2.0",
+    "fb": "^2.0.0",
+    "fbgraph": "^1.4.4",
+    "https": "^1.0.0",
+    "mongoose": "^5.5.15",
+    "nodemon": "^1.19.0",
+    "oauth2": "0.0.1",
+    "request": "^2.88.0",
+    "slackbots": "^1.2.0",
+    "socket.io": "^2.2.0",
+    "telegram-bot-api": "^1.3.3",
+    "unirest": "^0.6.0"
+  }
+}
